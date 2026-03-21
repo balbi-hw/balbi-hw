@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 😄 Dev. History
 
-- [2026.01.07] SSAFY 15기 입과
+- [2026.01.07] SSAFY 15기 입과 (Hello World!)
 
 ---
 
