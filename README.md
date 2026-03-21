@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 ## 📫 Contact
 
-- github: https://github.com/balbi.hw
+- github: https://github.com/balbi-hw
 - Email: brightrain453@gmail.com
 
 ---
