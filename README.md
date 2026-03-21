@@ -67,5 +67,5 @@ Here are some ideas to get you started:
 ## Fun Facts
 
 - 목포해양대학교 **항해학** 졸업
-- BOJ
+- BOJ  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brightrain453)](https://solved.ac/brightrain453/)
