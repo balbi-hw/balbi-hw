@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🔭 Featured Project  
-### North Star PJT. PJT - C.A. (Currently Working on)
+### 01. PJT - C.A. ( North Star )
 - 단어 암기 보조 프로그램인 Anki 를 클론코딩합니다.
 - 단순히 기능을 따라 만드는 것에 그치지 않고, 평소 불편했던 점들을 개선하며  
 실제 서비스 개발 과정을 경험하는 것을 목표로 합니다.
