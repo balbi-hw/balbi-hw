@@ -73,7 +73,6 @@ Here are some ideas to get you started:
 
 - github: https://github.com/balbi-hw
 - Email: brightrain453@gmail.com
-- blog: https://balbi-hw.tistory.com/
 
 ---
 
