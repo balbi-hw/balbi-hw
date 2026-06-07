@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## Core Keywords
 
-`Java` `Spring` `Python`
+`낙관` `도전` `신뢰`
 
 ---
 
@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 ### Backend
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+`Django`
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -62,10 +63,9 @@ Here are some ideas to get you started:
 
 ## 🌱 What I’m Learning
 
-- Java와 객체지향 기초 다지기
-- Spring 기반 백엔드 개발
-- SQL과 데이터베이스 설계 기초
-- CS 기초
+- Spring Boot
+- Database [ MySQL ]
+- 서비스 배포 과정
 
 ---
 
@@ -73,6 +73,8 @@ Here are some ideas to get you started:
 
 - github: https://github.com/balbi-hw
 - Email: brightrain453@gmail.com
+- Personal Blog: https://balbi-hw.tistory.com/
+- Tech Blog: https://velog.io/@brightrain453/
 
 ---
 
