@@ -101,11 +101,3 @@ AI를 개발 생산성을 높이는 도구로 활용하되, 결과물의 검증�
 
 - github: https://github.com/balbi-hw
 - Email: brightrain453@gmail.com
-
----
-
-## ⚡ Fun Facts
-
-- 목포해양대학교 **항해학** 졸업
-- BOJ  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brightrain453)](https://solved.ac/brightrain453/)
